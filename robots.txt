@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ifustres.github.io/sitemap.html.gz
+Sitemap: https://ifustres.github.io/app/sitemap.html.gz
+Sitemap: https://ifustres.github.io/assets/sitemap.html.gz
+Sitemap: https://ifustres.github.io/css/sitemap.html.gz
+Sitemap: https://ifustres.github.io/includes/sitemap.html.gz
+Sitemap: https://ifustres.github.io/item/sitemap.html.gz
+Sitemap: https://ifustres.github.io/src/sitemap.html.gz
